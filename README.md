@@ -9,6 +9,6 @@ curso: Engenharia de Software
 Aprender a utilizar o GitHub para versionamento de codigo
 
 ## O que estou aprendendo
--Git
--Github
--Versionamento
+- Git
+- Github
+- Versionamento
